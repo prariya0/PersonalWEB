@@ -1,0 +1,188 @@
+
+a{
+    color: #F8EDED;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+hr{
+    border: none;
+    border-top: dotted;
+    width: 3%;
+    border-width: 7px;
+    margin: 125px auto;
+    border-color: gray;
+    
+}
+
+h1{
+    margin: 0 auto 0 auto;
+    padding-top: 80px;   
+    font-size: 5.625rem;
+    position: relative;
+    color: #BEAEE2;
+    line-height: 2;
+    font-family: 'Satisfy', cursive;
+}
+
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    color: #BEAEE2;
+    font-size: 2.5rem;
+}
+
+h3{
+    font-family: 'Tourney', cursive;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.introduce{
+    font-size: 1.25rem;
+    color: black;
+    width: 30%;
+    margin: auto;
+}
+
+.btn{
+    color: #BEAEE2;
+}
+
+.bottom-clound{
+    position: absolute;
+    left: 30%;
+}
+
+.top-clound{
+    position: absolute;
+    top: 35px;
+    right: 30%;
+}
+
+.top-container{
+    background-color: #F6DFEB;
+    position: relative;
+}
+
+.middle-container{
+    background-color: #F8EDED;
+    padding-top: 20px;
+    
+}
+
+.bottom-container{
+    background-color: #E4BAD4;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.skill-description{
+    font-size: 1.25rem;
+    color: black;
+}
+
+.get-description{
+    font-size: 1.25rem;
+    color: black;
+    width: 35%;
+    margin: 40px auto 50px;
+}
+
+.footer-link{
+    font-size: 1.5rem;
+    padding: 25px;
+    color: #FFFFFF;
+}
+
+
+.profile{
+    border-radius: 100%;
+    background-color: #F8EDED;
+}
+
+.contact-me{
+    padding-bottom: 10px;
+}
+
+.describe{
+    color: #BEAEE2;
+    font-weight: normal;
+}
+
+.skill-row{
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.basketball{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.coding{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.kirby-star{
+    position: absolute;
+    width: 7%;
+    bottom: 25%;
+}
+
+.kirby-sit{
+    position: absolute;
+    width: 5.5%;
+    left: 49%;
+    bottom: 9%;
+}
+
+.kirbyuanbas{
+    position: absolute;
+    width: 9%;
+    right: 25.5%;
+    top: 214%;
+}
+
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Courier New;
+    font-size: 1.75rem;
+    font-weight: 500;
+    padding: 20px;
+    background-color: #E4BAD4;
+    border: solid #F38BA0 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #E4BAD4;
+    border: solid #F7DAD9 0;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+ .kirbyuanfix{
+     position: fixed;
+     right: 87%;
+     width: 20%;
+
+ }
